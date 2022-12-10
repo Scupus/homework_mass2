@@ -39,6 +39,9 @@ public class Main {
             System.out.print(stringToChar[i]);
         }
     }
+    /**
+     *Ветка для пула
+     */
 
 
 
